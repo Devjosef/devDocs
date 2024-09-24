@@ -26,9 +26,9 @@ Welcome to devDocs, a comprehensive and personalized documentation repository fo
 ### DevOps
 - [Docker](devops/Docker/index.md)
 - [Kubernetes](devops/Kubernetes/index.md)
-- [Terraform](tools/Terraform/index.md)
-- [Ansible](tools/Ansible/index.md)
-- [GitLab](tools/Gitlab/index.md)
+- [Terraform](devops/Terraform/index.md)
+- [Ansible](devops/Ansible/index.md)
+- [GitLab](devops/Gitlab/index.md)
 
 ### Tools
 - [Jira](tools/Jira/index.md)
