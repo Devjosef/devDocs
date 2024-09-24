@@ -25,7 +25,7 @@ Slack is a messaging app for teams that brings all your communication together, 
 ## Code Snippets
 ### Sending a Message with Webhooks
 ```bash
-curl -X POST -H 'Content-type: application/json' --data '{
+/// curl -X POST -H 'Content-type: application/json' --data '{
   "text": "This is a message from the command line"
 }' https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
 ```
